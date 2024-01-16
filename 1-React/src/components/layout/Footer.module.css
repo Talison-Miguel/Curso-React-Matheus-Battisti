@@ -1,0 +1,21 @@
+.social_list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.social_list li {
+    margin: 0 1em;
+}
+
+.social_list svg {
+    font-size: 4em;
+    cursor: pointer;
+    color: rgb(4, 223, 223);
+    transition: all .5s;
+}
+
+.social_list svg:hover {
+    color: rgb(4, 119, 119);
+}
