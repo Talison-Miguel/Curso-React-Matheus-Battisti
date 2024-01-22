@@ -1,3 +1,3 @@
 export function Contatc() {
-    return <h1>Contatc</h1>
+    return <h1>Contatos</h1>
 }
