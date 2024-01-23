@@ -13,10 +13,9 @@ export function Navbar() {
                 <ul className={styles.list}>
                     <li><Link to='/'>Home</Link></li>
                     <li><Link to='/projects'>Projetos</Link></li>
-                    <li><Link to='/'>Empresa</Link></li>
-                    <li><Link to='/contatc'>Contato</Link></li>
+                    <li><Link to='/company'>Empresa</Link></li>
+                    <li><Link to='/contact'>Contato</Link></li>
                 </ul>
-                {/* <Link to='/newproject'>Novo Projeto</Link>   */}
             </Container>
         </nav>
     )
