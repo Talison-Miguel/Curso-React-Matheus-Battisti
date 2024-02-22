@@ -12,17 +12,6 @@
       "id": "3f7c"
     },
     {
-      "id": "a4b4",
-      "name": "projetinho",
-      "budget": "15000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "service": []
-    },
-    {
       "id": "b0dd",
       "name": "Testando",
       "budget": "23333",
