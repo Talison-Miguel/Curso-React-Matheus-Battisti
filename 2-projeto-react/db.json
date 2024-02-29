@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "name": "Projeto teste",
+      "name": "Projeto 1",
       "budget": "5000",
       "category": {
         "id": "2",
@@ -13,8 +13,8 @@
     },
     {
       "id": "b0dd",
-      "name": "Testando",
-      "budget": "23333",
+      "name": "Projeto 2",
+      "budget": "99999",
       "category": {
         "id": "3",
         "name": "Design"

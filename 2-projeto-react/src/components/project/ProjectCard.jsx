@@ -20,7 +20,7 @@ export function ProjectCard({id, name, budget, category, handleRemove}) {
                 <span className={`${styles[category.toLowerCase()]}`}></span> {category}
             </p>
             <div className={styles.projectCardActions}>
-                <Link to={'/'}><span><BsPencil /> Editar</span></Link>
+                <Link to={`/project/${id}`}><span><BsPencil /> Editar</span></Link>
                 <button onClick={remove}>
                     <span><BsFillTrashFill /> Remover</span>
                 </button>
