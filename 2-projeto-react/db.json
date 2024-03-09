@@ -7,14 +7,21 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "service": [],
+      "cost": 2000,
+      "service": [
+        {
+          "name": "Website",
+          "cost": "2000",
+          "description": "leading page",
+          "id": "ec3f2cc2-8f2f-4a2b-af68-b3a1662a5628"
+        }
+      ],
       "id": "3f7c"
     },
     {
       "id": "b0dd",
       "name": "Projeto 2",
-      "budget": "99999",
+      "budget": "999",
       "category": {
         "id": "3",
         "name": "Design"

@@ -80,6 +80,8 @@
 
 .projectCardActions a span,
 .projectCardActions button span {
+    display: flex;
+    align-items: center;
     z-index: 10;
 }
 
