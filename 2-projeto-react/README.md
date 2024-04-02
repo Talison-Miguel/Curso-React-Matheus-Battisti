@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+<h1 align="center">
+ 🚀 Website Costs 🚀
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img alt="HTML" src="https://img.shields.io/badge/Html-red">
+  <img alt="React" src="https://img.shields.io/badge/React-blue">
+  <img alt="css" src="https://img.shields.io/badge/CSS-blue">
+  <img alt="json-server" src="https://img.shields.io/badge/Json_Server-green">
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/Code%20quality-A-green"/>
+  
 
-## Available Scripts
+  <a href="https://www.linkedin.com/in/t%C3%A1lison-miguel/">
+    <img alt="Made by Tálison" src="https://img.shields.io/badge/Made%20by-talison-red">
+  </a>
+</p>
 
-In the project directory, you can run:
+---
 
-### `npm start`
+<p align="center">
+  <img alt="Imagem da Aplicação" src="imageProject.jpg" />
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#  Índice
 
-### `npm test`
+- :rocket: [Sobre o Projeto](#rocket-sobre-o-projeto)
+- 👨‍💻️ [Tecnogias utilizadas](#%EF%B8%8F-tecnogias-utilizadas)
+- 📦️ [Como utilizar o projeto](#%EF%B8%8F-como-utilizar-o-projeto)
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :rocket: Sobre o Repositório
 
-### `npm run build`
+Este projeto foi desenvolvido usando react e json-server, resultando em uma aplicação totalmente funcional para organizar custos de projetos.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 👨‍💻️ Tecnogias utilizadas
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+✅ [ REACT ](https://pt-br.reactjs.org/) <br/>
+✅ [ CSS ](https://developer.mozilla.org/pt-BR/docs/Web/CSS) <br/>
+✅ [ HTML ](https://developer.mozilla.org/pt-BR/docs/Web/HTML) <br/>
+✅ [ JSON-SERVER ](https://www.npmjs.com/package/json-server) <br/>
 
-### `npm run eject`
+###  IDE
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+  - [ Código do Visual Studio ](https://code.visualstudio.com/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📦️ Como utilizar o projeto
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Para copiar o projeto, utilize os comandos:
 
-## Learn More
+```bash
+  ❯ git clone https://github.com/Talison-Miguel/Curso-React-Matheus-Battisti.git
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h4 align="center">
+  Feito com ❤️ por Tálison Miguel 👋️ <a href="mailto:talisonmiguel84@gmail.com">Entre em contato!</a>
+</h4>
 
-### Code Splitting
+<p align="center">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  <a href="https://www.linkedin.com/in/talison-miguel/">
+    <img alt="Tálison Miguel Amancio" src="https://img.shields.io/badge/LinkedIn-Tálison_Miguel-0e76a8?style=flat&logoColor=white&logo=linkedin">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100009099058734">
+    <img alt="Tálison Miguel Amancio" src="https://img.shields.io/badge/Facebook-Tálison_Miguel-1778F2?style=flat&logoColor=white&logo=facebook">
+  </a>
+  <a href="https://www.instagram.com/talison_miguel_00/">
+    <img alt="Tálison Miguel Amancio" src="https://img.shields.io/badge/Instagram-@talison__miguel__00-833AB4?style=flat&logoColor=white&logo=instagram">
+  </a>
+  
